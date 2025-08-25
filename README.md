@@ -121,17 +121,18 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimirdevx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimirdevx&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimirdevx&theme=tokyonight&border_radius=10)
-
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nimirdevx&theme=tokyonight"/> 
+</div> 
+<br/>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimirdevx&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=nimirdevx&theme=tokyonight&border_radius=10" alt="GitHub Streak"/> </div>
+<br/>
+<div align="center"> 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimirdevx&theme=tokyo-night&bg_color=1a1b27&color=9a8fee&line=bb9af7&point=f7768e&area=true&hide_border=true" width="100%"/>
-
 </div>
 
----
 
 ## 🌟 What I'm Up To
 
