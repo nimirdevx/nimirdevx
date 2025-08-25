@@ -137,7 +137,6 @@
 ## 🌟 What I'm Up To
 
 - 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Cloud Architecture** and **DevOps practices**
 - 👯 Looking to collaborate on **innovative full-stack projects**
 - 💬 Ask me about **React, Next.js, Python, or Full-Stack Development**
 - 📫 How to reach me: **nimirdevx@gmail.com**
@@ -151,7 +150,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/webwithnimir)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimirdevx@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimirdevx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://nimirkhan.com)
 
 </div>
 
