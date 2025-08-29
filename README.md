@@ -130,7 +130,7 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=nimirdevx&theme=tokyonight&border_radius=10" alt="GitHub Streak"/> </div>
 <br/>
 <div align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimirdevx&theme=tokyo-night&bg_color=1a1b27&color=9a8fee&line=bb9af7&point=f7768e&area=true&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimirdevx&theme=tokyo-night&bg_color=1a1b27&color=9a8fee&line=bb9af7&point=f7768e&area=true&hide_border=true" width="100%"/> -->
 </div>
 
 
